@@ -1,6 +1,8 @@
 # Hello!, Welcome to my Profile :computer:
 
-<img align="left" alt="mframosg GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mframosg&show_icons=true&hide_border=true%22/%3E">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mframosg&show_icons=true&theme=tokyonight)
+- 📫 How to reach me: mframosg@eafit.edu.co or mrmiguel0105@gmail.com
+-  🌱 I’m currently learning laravel and c++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mframosg)](https://github.com/anuraghazra/github-readme-stats)
 <!--
