@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile!
 
 # Hello!, Welcome to my Profile :computer:
 
