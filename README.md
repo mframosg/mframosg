@@ -1,5 +1,3 @@
-### Welcome to my profile!
-
 # Hello!, Welcome to my Profile :computer:
 
 <img align="left" alt="mframosg GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mframosg&show_icons=true&hide_border=true%22/%3E">
