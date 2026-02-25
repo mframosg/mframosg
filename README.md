@@ -1,21 +1,36 @@
-# Hello!, Welcome to my Profile :computer:
+# Hi, I'm Miguel Ramos :computer:
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mframosg&show_icons=true&theme=gotham&count_private=true")-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mframosg&show_icons=true&theme=gotham&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--
-**mframosg/mframosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🧠 Systems Engineer & MSc in Engineering (Software Development)
+- 💼 Backend Engineer @ Mercado Libre
+- 👨‍🏫 Adjunct Professor (Programming Fundamentals & Databases)
+- 📍 Colombia
+- 🎯 Focused on scalable backend architecture and high-performance systems
 
-Here are some ideas to get you started:
+## 🚀 Current Work
+- Building backend systems in high-scale production environments
+- Teaching Programming Fundamentals and Databases at university level
+- Researching REST vs GraphQL performance for large-scale data (Master’s Thesis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mframosg&langs_count=8&show_icons=true&theme=gotham&layout=compact&count_private=true)
-- 📫 How to reach me: mframosg@eafit.edu.co or mrmiguel0105@gmail.com
--  🌱 I’m currently learning web development
+## 🛠️ Technical Focus
+- Backend Engineering: Python (Django, FastAPI) and Java (Spring Boot)
+- API Architecture: REST and GraphQL
+- Data Systems: MySQL, MongoDB, Key-Value Stores, Document Databases
+- Cloud & Environment: AWS, GCP, Docker, Linux, Git
+
+## 🧠 Professional Interests
+- Backend Architecture & Scalability
+- API Performance Optimization
+- System Design
+- Practical Software Engineering Education
+
+## 👨‍🏫 Teaching
+Currently teaching:
+- Programming Fundamentals
+- Databases
+
+I enjoy simplifying complex technical concepts and helping students build strong foundations in software development.
+
+## 📫 Contact
+- 📧 mframosg@eafit.edu.co  
+- 📧 mrmiguel0105@gmail.com
