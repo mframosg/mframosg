@@ -32,5 +32,6 @@ Currently teaching:
 I enjoy simplifying complex technical concepts and helping students build strong foundations in software development.
 
 ## 📫 Contact
+- 🔗 LinkedIn: https://www.linkedin.com/in/mframosg
 - 📧 mframosg@eafit.edu.co  
 - 📧 mrmiguel0105@gmail.com
